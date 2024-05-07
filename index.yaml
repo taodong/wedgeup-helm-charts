@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  conduit-app:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-05-07T22:08:59.799792722Z"
+    description: data conduit application helm chart
+    digest: f94d3f904178a2e9c3b9efae15fd9984b1f33ff9d4fc04276273a4f4716412c9
+    name: conduit-app
+    type: application
+    urls:
+    - https://github.com/taodong/wedgeup-helm-charts/releases/download/conduit-app-0.0.1/conduit-app-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-05-07T22:08:59.799833719Z"
