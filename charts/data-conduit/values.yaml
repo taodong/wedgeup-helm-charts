@@ -73,11 +73,11 @@ resources: {}
 
 livenessProbe:
   httpGet:
-    path: /acutator/health
+    path: /actuator/health
     port: 9080
 readinessProbe:
   httpGet:
-    path: /acutator/health
+    path: /actuator/health
     port: 9080
 
 autoscaling:
